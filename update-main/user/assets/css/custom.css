@@ -1,0 +1,46 @@
+.footer{
+text-align: center;
+color:white;
+background-color: rgb(45, 45, 250);
+padding: 30px;
+margin: 0%;
+}
+
+.jumbotron{
+    background-color: rgba(red, green, rgb(137, 137, 236), alpha);
+}
+
+body{
+
+    background-image: url("../images/ntcBg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1400px 900px;
+    background-size: cover;
+    -o-background-size:cover;
+    -moz-background-size:cover;
+    -webkit-background-size:cover;
+}
+
+.login{
+   
+background-color: rgba(48, 196, 250, 0.781);
+width: 500px;
+}
+
+.signup{
+
+     background-color: rgba(15, 212, 252, 0.781);
+     width: 500px;
+     }
+
+.container1 {
+        background-color: transparent !important;
+        width: 500px;
+    }
+    
+.card-header .container1 {
+        background-color: transparent !important;
+    }
+    
